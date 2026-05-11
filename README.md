@@ -1,4 +1,4 @@
-# TEST QA HABITS
+# TEST QA Performance
 Rama Master Para la prueba de PRUEBA DE CARGA Y PERFORMANCE
 
 se crearon 2 scripts pizzatest.jmx con el tiempo 100 usuarios en 5 min y pizzatest1min.jmx donde se realizo la misma prueba en 1 min. Ambos scripts tienen graficas de resultados para analizar los tiempos de respuesta, media, minima y maxima, graficas compartivas, entre otros receptores de data. se logro tomar el token de forma dinamica.
